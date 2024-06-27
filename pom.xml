@@ -22,6 +22,7 @@
         <module>generics-exemple-10</module>
         <module>generics-exemple-11</module>
         <module>generics-exemple-12</module>
+        <module>test2</module>
     </modules>
 
     <properties>
